@@ -1,0 +1,23 @@
+div {
+    display: flex;
+    flex-direction: column; /* Stack div elements vertically */
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 24px;
+  }
+.divholder{
+    margin-top: 2400px;
+}
+h1 {
+    display: flex;
+    flex-direction: column; /* Stack div elements vertically */
+    justify-content: center;
+    align-items: center;
+}
+h2 {
+    display: flex;
+    flex-direction: column; /* Stack div elements vertically */
+    justify-content: center;
+    align-items: center;
+}
